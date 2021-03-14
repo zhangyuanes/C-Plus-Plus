@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['wiggle_5fsort_2865',['wiggle_sort',['../d0/d52/namespacewiggle__sort.html',1,'']]],
-  ['word_5fbreak_2866',['word_break',['../d6/d53/namespaceword__break.html',1,'']]]
+  ['vector_5fcross_3124',['vector_cross',['../d4/d91/namespacevector__cross.html',1,'']]],
+  ['vigenere_3125',['vigenere',['../d6/da2/namespacevigenere.html',1,'']]]
 ];
