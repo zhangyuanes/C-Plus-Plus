@@ -59,6 +59,7 @@ var namespaces_dup =
     [ "layers", "d5/d2c/namespacelayers.html", null ],
     [ "linear_algebra", "d3/d78/namespacelinear__algebra.html", null ],
     [ "linear_probing", "d8/d89/namespacelinear__probing.html", "d8/d89/namespacelinear__probing" ],
+    [ "linear_recurrence_matrix", "d9/dd1/namespacelinear__recurrence__matrix.html", null ],
     [ "linked_list", "d3/db0/namespacelinked__list.html", null ],
     [ "list_array", "d9/d27/namespacelist__array.html", null ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", "d8/d77/namespacemachine__learning" ],
