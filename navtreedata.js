@@ -123,18 +123,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/c/vfwscanf.html",
-"cpp/string/wide/iswspace.html",
-"d1/dc7/linear__probing__hash__table_8cpp.html#a16680b8a37d442c2f208faa286e33908",
-"d3/dce/linkedlist__implentation__usingarray_8cpp.html#a20358970b1abaf992eb85e071e454653",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html",
-"d6/dce/rabin__karp_8cpp.html#a8fb0bc932ba8b582c9f4c71338d050f8",
-"d8/d89/namespacelinear__probing.html#addfce7597f6a42f796fa597ae40eecc9",
-"da/d24/sqrt__double_8cpp.html",
-"dc/d1a/pascal__triangle_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"de/d75/qr__eigen__values_8cpp.html#a33cb0a68c36aa26fd599c7c66da86ed7",
-"globals_h.html"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/df3/hash__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d4/d3e/n__queens_8cpp.html#a40ae0c7fd04eb20e7f3bff13fc6a5808",
+"d5/d90/palindrome__partitioning_8cpp.html#a52ee22882858d2b1cf04293f02ed839a",
+"d7/d1e/graph_2dijkstra_8cpp.html#a330a2b0a904f01802ada1f8f3b28e76c",
+"d8/d95/vector__ops_8hpp.html#ad0302cde64c0479379be18286962f6df",
+"da/d5a/class_complex.html#ae1e03712837450549e0c9b4017533a41",
+"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3",
+"de/d9d/classdata__structures_1_1linked__list_1_1link.html#ac121ce37b6ea864b160ebcada0bce936",
+"namespacemembers_vars.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
