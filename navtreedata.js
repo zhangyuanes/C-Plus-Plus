@@ -125,16 +125,16 @@ var NAVTREEINDEX =
 [
 "",
 "cpp/io/c/vfwscanf.html",
-"cpp/string/wide/iswpunct.html",
-"d1/dc7/linear__probing__hash__table_8cpp.html",
-"d3/dbb/class_cycle_check.html#a399292a33edf87499daa52b51315aca5",
-"d5/d67/complex__numbers_8cpp.html#a5a73e9d4e68af8cedb95bd0864054b89",
-"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md14",
-"d8/d89/namespacelinear__probing.html",
-"d9/dee/classdouble__linked__list.html#a0525cf734dfd9cd399f3c8d0df138dce",
-"db/dc0/namespacebacktracking.html#a80af16e57cfb6aaab2bf1da4c4db3308",
-"de/d23/disjoint__set_8cpp.html#a44481bb75386fbb0f958a388d4b9f757",
-"globals_func_e.html"
+"cpp/string/wide/iswprint.html",
+"d1/dc2/classstack.html#ae8547e097cc753d5eab0207ed23d8920",
+"d3/db0/namespacelinked__list.html",
+"d5/d67/bayes__theorem_8cpp.html#abb4f22dc05887c2259fdfc55c687598f",
+"d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md11",
+"d8/d77/namespacemachine__learning.html#ad0302cde64c0479379be18286962f6df",
+"d9/dde/structdouble__hashing_1_1_entry.html#a287b92112b6b43b34808a93778873475",
+"db/da9/classqueue.html",
+"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#ab7fd890a7ccf756e4b3313087b76a8c2",
+"functions_func_r.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
