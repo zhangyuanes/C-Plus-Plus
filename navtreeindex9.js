@@ -1,5 +1,10 @@
 var NAVTREEINDEX9 =
 {
+"da/dd3/namespacespirograph.html":[8,0,67],
+"da/dd3/namespacespirograph.html#a8e83a64e8443fff1e5ffdc1c299c1e99":[8,0,67,1],
+"da/dd3/namespacespirograph.html#aeca22dbe4563358960e907a40cd3e1ac":[8,0,67,0],
+"da/dd4/namespacemedian__search.html":[8,0,38],
+"da/dda/namespaceradix__sort.html":[8,0,58],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[10,0,15,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[10,0,15,2,0],
 "da/df2/durand__kerner__roots_8cpp.html":[10,0,13,2],
@@ -24,13 +29,13 @@ var NAVTREEINDEX9 =
 "db/d07/spiral__print_8cpp.html#a850d3f55e1a8d227176cdcc67352c197":[10,0,15,14,2],
 "db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5":[10,0,15,14,0],
 "db/d07/spiral__print_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,14,1],
-"db/d0d/prime__factorization_8cpp.html":[10,0,12,35],
-"db/d0d/prime__factorization_8cpp.html#a0ece0145fb29a5cf48378c23dde2da46":[10,0,12,35,1],
-"db/d0d/prime__factorization_8cpp.html#a7fe38b570a51e448430d6a0f072c2f23":[10,0,12,35,4],
-"db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b":[10,0,12,35,3],
-"db/d0d/prime__factorization_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,35,0],
-"db/d0d/prime__factorization_8cpp.html#af097796783684712b8326e5b82bfd4fe":[10,0,12,35,5],
-"db/d0d/prime__factorization_8cpp.html#affe577b9bce8f604f5e2f861c63c7099":[10,0,12,35,2],
+"db/d0d/prime__factorization_8cpp.html":[10,0,12,36],
+"db/d0d/prime__factorization_8cpp.html#a0ece0145fb29a5cf48378c23dde2da46":[10,0,12,36,1],
+"db/d0d/prime__factorization_8cpp.html#a7fe38b570a51e448430d6a0f072c2f23":[10,0,12,36,4],
+"db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b":[10,0,12,36,3],
+"db/d0d/prime__factorization_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,36,0],
+"db/d0d/prime__factorization_8cpp.html#af097796783684712b8326e5b82bfd4fe":[10,0,12,36,5],
+"db/d0d/prime__factorization_8cpp.html#affe577b9bce8f604f5e2f861c63c7099":[10,0,12,36,2],
 "db/d16/0__1__knapsack_8cpp.html":[10,0,4,0],
 "db/d16/0__1__knapsack_8cpp.html#a15edf30f336885e5b851f6b7199c6cd1":[10,0,4,0,1],
 "db/d16/0__1__knapsack_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,4,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX9 =
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6":[10,0,11,4,9],
 "dc/d52/linear__recurrence__matrix_8cpp.html#a7487322bae85648c89da86f34431c103":[8,0,37,2,1],
 "dc/d52/linear__recurrence__matrix_8cpp.html#a759a232b9d5ab032062b8560343c6af3":[8,0,37,2,3],
-"dc/d52/linear__recurrence__matrix_8cpp.html#ab55e45ae404ea360e9eebac8f63692f7":[8,0,37,2,2],
-"dc/d52/linear__recurrence__matrix_8cpp.html#af5e240c0cfaabed122a0596f800b3d14":[8,0,37,2,0],
-"dc/d5a/rat__maze_8cpp.html":[10,0,0,6],
-"dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,0,6,2],
-"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[8,0,3,3,0],
-"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[10,0,0,6,1]
+"dc/d52/linear__recurrence__matrix_8cpp.html#ab55e45ae404ea360e9eebac8f63692f7":[8,0,37,2,2]
 };

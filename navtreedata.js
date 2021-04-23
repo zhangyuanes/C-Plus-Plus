@@ -128,15 +128,15 @@ var NAVTREEINDEX =
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
 "d1/d83/classuint256__t.html#ad5ba734dc60992a6907f2d3462db370a",
-"d3/d7d/brute__force__string__searching_8cpp.html",
-"d5/d15/classcll.html#abb6fb5834563d077a4eaff1b7fdc5b44",
-"d6/d7a/golden__search__extrema_8cpp.html#a0283886819c7c140a023582b7269e2d0",
-"d8/d69/classgraph_1_1_h_k_graph.html#ae794950cb3407b6b47d3dc986cf714c0",
-"d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1",
-"da/de7/decimal__to__hexadecimal_8cpp.html",
-"dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"de/d7b/merge__insertion__sort_8cpp.html#a0cba4fbf287ab8cb978ed7f8fef886b1",
-"globals_func_n.html"
+"d3/d4c/xor__cipher_8cpp.html#aeff72a463ffc580c16cc849cbbdc58ef",
+"d5/d15/classcll.html#a2eb66b7c9d059dcf75090248fa521262",
+"d6/d60/group__ode.html#gae0509f8843e2bc42de2abbd00a14b7b9",
+"d8/d69/classgraph_1_1_h_k_graph.html#a7491add14d9fc04f679114ca6d6f0f93",
+"d9/d5d/extended__euclid__algorithm_8cpp.html#abe92d63a0ff9bda7e304df510d5dd217",
+"da/dd3/namespacespirograph.html",
+"dc/d52/linear__recurrence__matrix_8cpp.html#af5e240c0cfaabed122a0596f800b3d14",
+"de/d75/qr__eigen__values_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0",
+"globals_func_f.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
